@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ochir</h1>
 <h3 align="center">Passionate up and coming full-stack developer</h3>
 
-- 🌱 I’m currently learning **Harvard CS50**
-
 - 📫 How to reach me **ochir_erkhembayar@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ochire/](https://www.linkedin.com/in/ochire/)
+
+- 🌱 I’m currently learning **Harvard CS50**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
