@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ochire/](https://www.linkedin.com/in/ochire/)
 
-- 🌱 I’m currently learning **Node.js** **Programming101**
+- 🌱 I’m currently learning **React.js** **CS50**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
