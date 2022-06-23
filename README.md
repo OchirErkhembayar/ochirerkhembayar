@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ochir Erkhembayar</h1>
 <h3 align="center">A junior developer specialising in JavaScript and Rails.</h3>
 
-- 🔭 I’m currently working on [OnlineFoodStore](https://github.com/OchirErkhembayar/online-food-shop-api https://github.com/OchirErkhembayar/online-food-shop-react)
+- 🔭 I’m currently working on [Betting Website (Not real money)](http://pancake-gambling.herokuapp.com/) (React + Node.js(expresss))
+
+- Another react project [Online food shop](https://the-best-food-ever.herokuapp.com/) (React + Node.js(expresss))
 
 - 🌱 I’m currently learning **React, TypeScript**
 
