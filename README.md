@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ochir Erkhembayar</h1>
-<h3 align="center">A junior developer specialising in JavaScript and Rails.</h3>
+<h3 align="center">A junior developer specialising in JavaScript (Node.js with express and React) and Rails.</h3>
 
 - 🔭 I’m currently working on [Betting Website (Not real money)](http://pancake-gambling.herokuapp.com/) (React + Node.js(expresss))
 
