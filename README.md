@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Whatever you want i'll do my best!**
 
+- Projects during the Le Wagon Bootcamp: [Where2](www.where-2.org) [Meubles](https://meubles-806.herokuapp.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ochire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ochire" height="30" width="40" /></a>
